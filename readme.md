@@ -1,1 +1,1 @@
-# aqa-1-2-task-2-PostmanEcho
+# aqa-1-2-task-2-PostmanEcho [![Build status](https://ci.appveyor.com/api/projects/status/kdhfur0vopjj2mso?svg=true)](https://ci.appveyor.com/project/m-starilov/aqa-1-2-task-2-postmanecho)
