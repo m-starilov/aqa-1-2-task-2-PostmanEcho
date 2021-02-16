@@ -9,11 +9,9 @@ import static org.hamcrest.Matchers.*;
 public class PostmanEchoTest {
     @Test
     void shouldReturnBody() {
-        // Given - When - Then
         given()
                 .baseUri("https://postman-echo.com")
                 .contentType(ContentType.JSON)
-                .accept(ContentType.JSON)
                 .body("{\n" +
                         "  \"store\": {\n" +
                         "    \"book\": [\n" +
